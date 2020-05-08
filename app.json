@@ -1,0 +1,17 @@
+{
+  "name": "factory",
+  "displayName": "factory",
+  "expo": {
+    "name": "factory",
+    "slug": "factory",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
